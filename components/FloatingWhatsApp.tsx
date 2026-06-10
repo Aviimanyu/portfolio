@@ -24,11 +24,11 @@ const FloatingWhatsApp = () => {
           href={whatsappUrl}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center w-14 h-14 rounded-full bg-gradient-to-r from-green-400 to-green-600 text-white shadow-lg hover:shadow-2xl transition-all duration-300 hover:from-green-500 hover:to-green-700 group"
+          className="flex items-center justify-center w-14 h-14 rounded-full bg-gradient-to-r from-green-400 to-green-600 text-green-50 shadow-lg hover:shadow-2xl transition-all duration-300 hover:from-green-500 hover:to-green-700 group"
           aria-label="Contact on WhatsApp"
         >
           <svg
-            className="w-6 h-6 group-hover:scale-110 transition-transform"
+            className="w-6 h-6 group-hover:scale-110 transition-transform text-green-50"
             fill="currentColor"
             viewBox="0 0 24 24"
           >
