@@ -11,7 +11,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://abhimanyu.dev'),
-  title: 'Abhimanyu Yadav - Full Stack Developer & SEO Consultant',
+  title: 'Abhimanyu Kumar - Full Stack Developer & SEO Consultant',
   description: 'Full Stack Developer & SEO Consultant. Building fast websites, scalable systems, and SEO-driven platforms for startups and businesses. 6+ years of experience.',
   keywords: [
     'Full Stack Developer',
@@ -24,35 +24,35 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: 'Abhimanyu Yadav',
+      name: 'Abhimanyu Kumar',
       url: 'https://abhimanyu.dev',
     },
   ],
-  creator: 'Abhimanyu Yadav',
-  publisher: 'Abhimanyu Yadav',
+  creator: 'Abhimanyu Kumar',
+  publisher: 'Abhimanyu Kumar',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://abhimanyu.dev',
-    siteName: 'Abhimanyu Yadav',
-    title: 'Abhimanyu Yadav - Full Stack Developer & SEO Consultant',
+    siteName: 'Abhimanyu Kumar',
+    title: 'Abhimanyu Kumar - Full Stack Developer & SEO Consultant',
     description: 'Full Stack Developer & SEO Consultant. Building fast websites, scalable systems, and SEO-driven platforms.',
     images: [
       {
         url: 'https://abhimanyu.dev/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Abhimanyu Yadav - Full Stack Developer & SEO Consultant',
+        alt: 'Abhimanyu Kumar - Full Stack Developer & SEO Consultant',
         type: 'image/png',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Abhimanyu Yadav - Full Stack Developer & SEO Consultant',
+    title: 'Abhimanyu Kumar - Full Stack Developer & SEO Consultant',
     description: 'Full Stack Developer & SEO Consultant. Building fast websites, scalable systems.',
     images: ['https://abhimanyu.dev/og-image.png'],
-    creator: '@abhimanyuyadav',
+    creator: '@abhimanyukumar',
   },
   robots: {
     index: true,

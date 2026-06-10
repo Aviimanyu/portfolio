@@ -126,13 +126,11 @@ const Footer = () => {
           className="flex flex-col sm:flex-row items-center justify-between text-sm text-text-secondary"
         >
           <p>
-            © {currentYear} Abhimanyu Yadav. All rights reserved.
+© {currentYear} Abhimanyu Kumar. All rights reserved.
           </p>
-          <p className="flex items-center space-x-1 mt-4 sm:mt-0">
-            <span>Made with</span>
-            <HiHeart className="w-4 h-4 text-red-500" />
-            <span>using Next.js & Tailwind</span>
-          </p>
+          {/*
+            Removed "Made with using Next.js & Tailwind" line per request.
+          */}
         </motion.div>
       </div>
     </footer>

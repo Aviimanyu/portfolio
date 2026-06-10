@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
+
 import { HiEnvelope, HiPhone, HiMapPin } from 'react-icons/hi2'
 
 const Contact = () => {
