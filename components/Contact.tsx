@@ -65,7 +65,8 @@ const Contact = () => {
     {
       icon: HiMapPin,
       label: 'Location',
-      value: 'Roorkee, India',
+      value: 'New Delhi, India',
+
       href: '#',
     },
   ]
