@@ -86,6 +86,16 @@ const Hero = () => {
               <span>View Projects</span>
               <HiArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </Link>
+
+            <a
+              href="https://calendly.com/abhimanyucoder88"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-secondary inline-flex items-center justify-center space-x-2 group"
+            >
+              <span>30 Minutes Free Consultancy</span>
+            </a>
+
             <a
               href="https://calendly.com/abhimanyucoder88"
               target="_blank"
@@ -94,6 +104,7 @@ const Hero = () => {
             >
               <span>Book a Call</span>
             </a>
+
             <a
               href="https://wa.me/919971055356?text=Hi%20Abhimanyu%2C%20I%20would%20like%20to%20discuss%20a%20project"
               target="_blank"
